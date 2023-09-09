@@ -6,9 +6,6 @@ The Fitness Tracker Application is designed to address the increasing demand for
 ![image](https://github.com/James-Pitt-dev/React-FitnessApplication/assets/39842510/005a0d6c-9006-4e9d-85ae-32f09e3e8d78)
 ![image](https://github.com/James-Pitt-dev/React-FitnessApplication/assets/39842510/797e69b1-f5ca-42a6-bfcd-70371c081b0d)
 
-
-
-
 ## Problem Statement
 Many fitness enthusiasts struggle to manage their exercise routines, monitor their progress accurately, and find nearby gyms for workouts. Existing fitness apps may lack essential functionalities or have complex user interfaces, hindering user motivation and commitment to their fitness goals.
 
